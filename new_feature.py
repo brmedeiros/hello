@@ -1,3 +1,3 @@
 #hello
 s = 'test string'
-print(s)
+print(s+'bye')
